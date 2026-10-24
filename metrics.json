@@ -1,0 +1,50 @@
+{
+  "2024_Base": {
+    "train_games": 3881,
+    "holdout_games": 1309,
+    "log_loss": 0.67155,
+    "brier": 0.2395,
+    "accuracy": 0.58212,
+    "auc": 0.60096
+  },
+  "2024_Base+Goalie": {
+    "train_games": 3881,
+    "holdout_games": 1309,
+    "log_loss": 0.66925,
+    "brier": 0.2384,
+    "accuracy": 0.58824,
+    "auc": 0.60768
+  },
+  "2024_Shot+": {
+    "train_games": 3881,
+    "holdout_games": 1309,
+    "log_loss": 0.6669,
+    "brier": 0.23725,
+    "accuracy": 0.58671,
+    "auc": 0.61354
+  },
+  "2025_Base": {
+    "train_games": 5190,
+    "holdout_games": 1312,
+    "log_loss": 0.68565,
+    "brier": 0.24619,
+    "accuracy": 0.5503,
+    "auc": 0.57461
+  },
+  "2025_Base+Goalie": {
+    "train_games": 5190,
+    "holdout_games": 1312,
+    "log_loss": 0.68699,
+    "brier": 0.24683,
+    "accuracy": 0.54954,
+    "auc": 0.56904
+  },
+  "2025_Shot+": {
+    "train_games": 5190,
+    "holdout_games": 1312,
+    "log_loss": 0.68515,
+    "brier": 0.24602,
+    "accuracy": 0.53659,
+    "auc": 0.57292
+  }
+}

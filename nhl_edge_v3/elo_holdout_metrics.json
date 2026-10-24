@@ -1,0 +1,9 @@
+{
+  "model": "V3_ELO_PROVISIONAL_1",
+  "holdout_season": "2025-26",
+  "games": 1312,
+  "accuracy": 0.53049,
+  "brier": 0.25179,
+  "log_loss": 0.69762,
+  "limitation": "Warmup uses only games present in V2 Base predictions (2024-25); incomplete warmup, no historical market odds."
+}
